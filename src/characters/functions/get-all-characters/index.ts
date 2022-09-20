@@ -1,0 +1,1 @@
+export { getAllCharacters } from "./function";

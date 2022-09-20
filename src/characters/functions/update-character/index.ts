@@ -1,0 +1,1 @@
+export { updateCharacter } from "./function";
